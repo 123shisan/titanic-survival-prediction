@@ -1,0 +1,6 @@
+# 忽略训练产物（可随时重新生成）
+model.pkl
+
+# Python 缓存
+__pycache__/
+*.pyc
